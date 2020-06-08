@@ -1,0 +1,1 @@
+[{"cuit":"20-39242928-0","nombre":"Luciano","telefono":"1151423213","correo":"Crowley.-@live.com","fechanac":"1983-06-15"},{"cuit":"20-39242928-0","nombre":"Emiliano","telefono":"1541419087","correo":"emiliano@gmail.com","fechanac":"1985-07-23"}]

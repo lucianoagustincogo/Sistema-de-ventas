@@ -1,0 +1,1 @@
+[{"cod":"AZ-000-30","nombre":"Samsung Galaxy AZ (B)","descripcion":"Tel\u00e9fono celular Samsung Galaxy color blanco doble sim","stock":"10","precio":"30000"}]
